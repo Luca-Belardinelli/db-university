@@ -17,7 +17,7 @@ WHERE (cfu) > 10;
 
 SELECT date_of_birth
 FROM `students`
-WHERE YEAR (date_of_birth) = 1990;
+WHERE YEAR (date_of_birth) <= 1995;
 
 
 4- Selezionare tutti i corsi del primo semestre del primo anno di un qualsiasi corso di laurea
