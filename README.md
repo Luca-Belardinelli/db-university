@@ -52,3 +52,15 @@ P.S.: fate prima le query SELECT,
 quelle del GROUP BY lasciatele per ultime..
 
 P.P.S: la repo è la stessa di ieri..
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+ex 06/03
+
+Utilizzando lo stesso database di ieri, eseguite le query in allegato.
+
+Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
+
+Buon divertimento…
